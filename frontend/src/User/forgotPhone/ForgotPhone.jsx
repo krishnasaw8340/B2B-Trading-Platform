@@ -54,7 +54,7 @@ const ForgotPhone = () => {
     <React.Fragment>
       {!isAuthenticated && (
         <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'center', margin: '50px 30px' }}>
-            <div className="pe_signin_button" data-client-id="16031306208315887707"></div>  
+            <div className="pe_signin_button" data-client-id="19157132588860538605"></div>  
         </div>
       )}
     </React.Fragment>
